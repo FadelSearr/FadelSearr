@@ -1,4 +1,4 @@
-markdown_content_en = """# 👋 Hi there, I'm Fadel Setiawan!
+👋 Hi there, I'm Fadel Setiawan!
 
 I am an **Information Systems** student with a deep passion for *Software Engineering*, *Data Engineering*, and *Financial Technology*. Currently, I am actively developing scalable backend systems, mobile applications, and data-driven analytical tools.
 
@@ -33,13 +33,10 @@ I am an **Information Systems** student with a deep passion for *Software Engine
 
 ### 📫 Let's Connect
 - 🌐 GitHub: [@FadelSearr](https://github.com/FadelSearr)
-- 💼 [LinkedIn](https://linkedin.com) *(Update with your actual LinkedIn profile)*
+- 💼 [LinkedIn]
 
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FadelSearr&show_icons=true&theme=radial&hide_border=true" alt="Fadel's GitHub Stats" />
 </p>
-"""
 
-with open("README-en.md", "w", encoding="utf-8") as file:
-    file.write(markdown_content_en)
