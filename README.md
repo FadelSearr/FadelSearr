@@ -183,12 +183,12 @@ currently_building: Dellmology Pro
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FadelSearr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FadelSearr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadelSearr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb)](https://github.com/FadelSearr)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FadelSearr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/FadelSearr)
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadelSearr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadelSearr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)](https://github.com/FadelSearr)
 
 </div>
 
