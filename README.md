@@ -137,27 +137,69 @@ currently_building: Dellmology Pro
 <!-- FEATURED PROJECTS -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<!-- DELLMOLOGY -->
-<a href="https://github.com/FadelSearr/Dellmology">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FadelSearr&repo=Dellmology&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-<!-- DEL DRIVE TRACKER -->
-<a href="https://github.com/FadelSearr/Del_Drive_Tracker">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FadelSearr&repo=Del_Drive_Tracker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
+### 🏆 [Dellmology Pro](https://github.com/FadelSearr/Dellmology)
 
-<!-- IKN -->
-<a href="https://github.com/FadelSearr/IKN_Built-Up_Area_Change_Detection">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FadelSearr&repo=IKN_Built-Up_Area_Change_Detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-<!-- PORTFOLIO -->
-<a href="https://github.com/FadelSearr/Portofolio_Web">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FadelSearr&repo=Portofolio_Web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
+AI-powered IDX stock screener with deep broker flow detection, Whale Score, Chat Oracle (NL-to-screener), Telegram Bot integration, and quantitative anomaly detection.
 
-</div>
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+⭐ **1 Star** • 📦 **37MB**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ [Del Road](https://github.com/FadelSearr/Del_Drive_Tracker)
+
+High-performance driving tracker with real-time telemetry, built-in dashcam, HUD speedometer, heatmap routes, Instagram Stories integration, and cloud sync.
+
+**Tech Stack:**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+📦 **4MB**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ [IKN Change Detection](https://github.com/FadelSearr/IKN_Built-Up_Area_Change_Detection)
+
+Satellite imagery analysis for detecting built-up area changes in Indonesia's new capital (IKN) using Sentinel-2 data, NDVI/NDBI indices, and Random Forest classification.
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
+
+📦 **17MB**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio Web](https://github.com/FadelSearr/Portofolio_Web)
+
+Personal portfolio website showcasing projects and skills with modern responsive design.
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 [**Live Demo**](https://fadelsearr.github.io/Portofolio_Web/)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -183,10 +225,25 @@ currently_building: Dellmology Pro
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadelSearr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb)](https://github.com/FadelSearr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FadelSearr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/FadelSearr)
 
-<br/><br/>
+<br/>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Contributions-90+-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Public_Repos-8-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Stars-1-ffd700?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<br/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadelSearr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)](https://github.com/FadelSearr)
 
