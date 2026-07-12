@@ -245,7 +245,32 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadelSearr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)](https://github.com/FadelSearr)
+**💻 Most Used Languages**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-23MB-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/TypeScript-520KB-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/JavaScript-62KB-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/C-425KB-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Go-16KB-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/HTML-5KB-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
