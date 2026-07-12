@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Background Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d2e,100:0d1117&height=500&section=header&text=Fadel%20Setiawan%20Arifin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Data%20Engineer%20%7C%20FinTech%20Builder&descSize=16&descColor=2ea043&descAlignY=62&stroke=2ea043&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d2e,100:0d1117&height=400&section=header&text=Fadel%20Setiawan%20Arifin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Data%20Engineer%20%7C%20FinTech%20Builder&descSize=16&descColor=2ea043&descAlignY=62&stroke=2ea043&strokeWidth=1" />
 <!-- Animated Status Badge -->
 <p align="center" style="margin-top: -30px;">
   <img src="https://img.shields.io/badge/◈_OPEN_TO_WORK_◈-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
@@ -320,7 +320,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Let's%20Connect&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=ffffff&fontSize=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Let's%20Connect&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=ffffff&fontSize=40" />
 
 <div align="center">
 
