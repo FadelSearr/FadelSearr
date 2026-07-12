@@ -1,34 +1,36 @@
 <div align="center">
 
-<!-- Status Badge -->
+<!-- Animated Status Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/◈_OPEN_TO_WORK_◈-2ea043?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/◈_OPEN_TO_WORK_◈-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
 </p>
 
-<!-- Name -->
-<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 48px; font-weight: bold;">
-  Fadel Setiawan
+<!-- Name with subtle animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fadel+Setiawan" alt="Typing SVG" />
 </h1>
 
-<!-- Tagline with Terminal Cursor -->
-<p align="center" style="font-family: 'Courier New', monospace; color: #2ea043; font-size: 18px;">
-  <strong>Backend Engineer | Data Engineer | FinTech Builder</strong><span style="animation: blink 1s infinite;">|</span>
+<!-- Animated Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Backend+Engineer+%7C+Data+Engineer;FinTech+Builder+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Bio -->
 <p align="center" style="color: #8b949e; max-width: 600px; margin: 20px auto; line-height: 1.6;">
-  I architect and ship scalable systems with Go & Python,<br/>
-  tracking institutional fund flows with AI, and building<br/>
+  I architect and ship scalable systems with <strong>Go & Python</strong>,<br/>
+  tracking institutional fund flows with <strong>AI</strong>, and building<br/>
   data-driven financial tools.
 </p>
 
-<!-- Info Bar -->
+<!-- Info Bar with animated icons -->
 <p align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/📍_Jakarta,_Indonesia-161b22?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Jakarta,_Indonesia-161b22?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🌐_fadelsearr.dev-161b22?style=flat-square" />
+  <a href="https://fadelsearr.github.io/Portofolio_Web/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-161b22?style=for-the-badge" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/✉️_contact@fadel.dev-161b22?style=flat-square" />
+  <img src="https://img.shields.io/badge/✉️_Open_for_Opportunities-161b22?style=for-the-badge" />
 </p>
 
 <!-- Stats Bar -->
@@ -39,19 +41,24 @@
     <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Years</p>
   </td>
   <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
-    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">8</h3>
+    <h3 style="color: #58a6ff; font-size: 32px; margin: 0;">8</h3>
     <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Projects</p>
   </td>
   <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
-    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">1</h3>
+    <h3 style="color: #ffd700; font-size: 32px; margin: 0;">1</h3>
     <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Stars</p>
   </td>
   <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
-    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">90</h3>
+    <h3 style="color: #f85149; font-size: 32px; margin: 0;">90+</h3>
     <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Commits</p>
   </td>
 </tr>
 </table>
+
+<!-- GitHub Trophies -->
+<p align="center" style="margin-top: 30px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=FadelSearr&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 </div>
 
