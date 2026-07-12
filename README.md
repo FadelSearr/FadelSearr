@@ -1,20 +1,20 @@
 <div align="center">
-
+<!-- Animated Background Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d2e,100:0d1117&height=300&section=header&text=Fadel%20Setiawan%20Arifin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Data%20Engineer%20%7C%20FinTech%20Builder&descSize=16&descColor=2ea043&descAlignY=62&stroke=2ea043&strokeWidth=1" />
 <!-- Animated Status Badge -->
 <p align="center">
+<p align="center" style="margin-top: -30px;">
   <img src="https://img.shields.io/badge/◈_OPEN_TO_WORK_◈-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
 </p>
-
 <!-- Name with subtle animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fadel+Setiawan" alt="Typing SVG" />
 </h1>
-
 <!-- Animated Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Backend+Engineer+%7C+Data+Engineer;FinTech+Builder+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Backend+Engineer+%7C+Data+Engineer;FinTech+Builder+%7C+AI+Enthusiast;Building+scalable+systems+with+Go+%26+Python" alt="Typing SVG" />
 </p>
-
 <!-- Bio -->
 <p align="center" style="color: #8b949e; max-width: 600px; margin: 20px auto; line-height: 1.6;">
   I architect and ship scalable systems with <strong>Go & Python</strong>,<br/>
@@ -371,3 +371,4 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d2e,100:0d1117&height=150&section=footer&stroke=2ea043&strokeWidth=1" />
