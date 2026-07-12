@@ -5,10 +5,7 @@
 <p align="center" style="margin-top: -30px;">
   <img src="https://img.shields.io/badge/◈_OPEN_TO_WORK_◈-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
 </p>
-<!-- Animated Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Backend+Engineer+%7C+Data+Engineer;FinTech+Builder+%7C+AI+Enthusiast;Building+scalable+systems+with+Go+%26+Python" alt="Typing SVG" />
-</p>
+
 <!-- Bio -->
 <p align="center" style="color: #8b949e; max-width: 600px; margin: 20px auto; line-height: 1.6;">
   I architect and ship scalable systems with <strong>Go & Python</strong>,<br/>
