@@ -53,7 +53,7 @@
 <br/>
 
 <!-- ABOUT SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+## About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
@@ -78,7 +78,7 @@ currently_building: Dellmology Pro
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -170,7 +170,7 @@ currently_building: Dellmology Pro
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+## Featured Projects
 
 <table align="center" width="100%">
 <tr>
@@ -256,7 +256,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -312,7 +312,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- ACTIVITY GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="28" /> &nbsp;Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -336,7 +336,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- CONNECT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's Connect
+## Let's Connect
 
 <div align="center">
 
