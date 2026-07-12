@@ -1,17 +1,57 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Fadel%20Setiawan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Engineer%20%7C%20FinTech%20Builder&descSize=18&descColor=8b949e&descAlignY=55" />
+<!-- Status Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_OPEN_TO_WORK_◈-2ea043?style=for-the-badge" alt="Open to Work" />
+</p>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+scalable+systems+with+Go+%26+Python;Tracking+institutional+fund+flows+with+AI;Crafting+data-driven+financial+tools)](https://git.io/typing-svg)
+<!-- Name -->
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 48px; font-weight: bold;">
+  Fadel Setiawan
+</h1>
 
-<br/>
+<!-- Tagline with Terminal Cursor -->
+<p align="center" style="font-family: 'Courier New', monospace; color: #2ea043; font-size: 18px;">
+  <strong>Backend Engineer | Data Engineer | FinTech Builder</strong><span style="animation: blink 1s infinite;">|</span>
+</p>
 
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-FadelSearr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FadelSearr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fadelsearr.github.io/Portofolio_Web/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+<!-- Bio -->
+<p align="center" style="color: #8b949e; max-width: 600px; margin: 20px auto; line-height: 1.6;">
+  I architect and ship scalable systems with Go & Python,<br/>
+  tracking institutional fund flows with AI, and building<br/>
+  data-driven financial tools.
+</p>
+
+<!-- Info Bar -->
+<p align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/📍_Jakarta,_Indonesia-161b22?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌐_fadelsearr.dev-161b22?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/✉️_contact@fadel.dev-161b22?style=flat-square" />
+</p>
+
+<!-- Stats Bar -->
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr>
+  <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
+    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">2+</h3>
+    <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Years</p>
+  </td>
+  <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
+    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">8</h3>
+    <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Projects</p>
+  </td>
+  <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
+    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">1</h3>
+    <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Stars</p>
+  </td>
+  <td align="center" style="border: 1px solid #30363d; padding: 20px; min-width: 120px;">
+    <h3 style="color: #2ea043; font-size: 32px; margin: 0;">90</h3>
+    <p style="color: #8b949e; font-size: 12px; margin: 5px 0 0 0; text-transform: uppercase;">Commits</p>
+  </td>
+</tr>
+</table>
 
 </div>
 
