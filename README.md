@@ -75,6 +75,10 @@ currently_building: Dellmology Pro
 
 <br clear="both"/>
 
+### 🎯 Current Focus
+- 🔭 **Currently working on:** Building scalable microservices & Dellmology Pro
+- 🌱 **Currently learning:** Advanced AI integrations for data-driven tools
+- 👯 **Looking to collaborate on:** Open-source FinTech or Go/Python backend projects
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- TECH STACK -->
@@ -311,6 +315,13 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
+<!-- WAKATIME -->
+## ⏱️ Coding Metrics
+
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 <!-- ACTIVITY GRAPH -->
 ## Contribution Graph
 
