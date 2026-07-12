@@ -1,4 +1,4 @@
-👋 Hi there, I'm Fadel Setiawan!
+[👋 Hi there, I'm Fadel Setiawan!
 
 I am an **Information Systems** student with a deep passion for *Software Engineering*, *Data Engineering*, and *Financial Technology*. Currently, I am actively developing scalable backend systems, mobile applications, and data-driven analytical tools.
 
@@ -39,3 +39,4 @@ I am an **Information Systems** student with a deep passion for *Software Engine
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FadelSearr&show_icons=true&theme=radial&hide_border=true" alt="Fadel's GitHub Stats" />
 </p>
+](https://github.com/FadelSearr/FadelSearr.git)
