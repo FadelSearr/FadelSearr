@@ -322,18 +322,6 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
-<!-- SNAKE -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FadelSearr/FadelSearr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FadelSearr/FadelSearr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FadelSearr/FadelSearr/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- CONNECT -->
 ## Let's Connect
