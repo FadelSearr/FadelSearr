@@ -75,7 +75,7 @@ currently_building: Dellmology Pro
 
 <br clear="both"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- TECH STACK -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Arsenal
@@ -167,7 +167,7 @@ currently_building: Dellmology Pro
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- FEATURED PROJECTS -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
@@ -253,7 +253,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- GITHUB STATS -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
@@ -309,7 +309,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- ACTIVITY GRAPH -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="28" /> &nbsp;Contribution Graph
@@ -320,7 +320,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- SNAKE -->
 <div align="center">
@@ -333,7 +333,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- CONNECT -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's Connect
@@ -358,5 +358,4 @@ Personal portfolio website showcasing projects and skills with modern responsive
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d2e,100:0d1117&height=150&section=footer&stroke=2ea043&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d2e,100:0d1117&height=200&section=footer&stroke=2ea043&strokeWidth=1" />
