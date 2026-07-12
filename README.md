@@ -55,58 +55,30 @@
 <!-- ABOUT SECTION -->
 ## About Me
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=700&color=2EA043&center=true&vCenter=true&width=900&lines=Backend+Architecture;Data+Engineering+%26+Pipelines;AI+Integration+%26+FinTech;Building+scalable+systems+with+Go+%26+Python" 
-    alt="Typing Animation"
-  />
-</p>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-<p align="center" style="color: #8b949e; max-width: 700px; margin: 0 auto; line-height: 1.6;">
-I am an Engineer specializing in <strong>Backend Systems</strong> and <strong>Data Engineering</strong>. 
-I focus on architecting scalable infrastructure, tracking institutional fund flows, 
-and building data-driven financial tools powered by AI.
-</p>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%" style="border: 1px solid #30363d; padding: 15px;">
-      <b style="color: #58a6ff;">Scalable Backend</b>
-      <br><br>
-      Architecting robust APIs, microservices, and databases using Go and Python.
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #30363d; padding: 15px;">
-      <b style="color: #2ea043;">Data Engineering</b>
-      <br><br>
-      Building data pipelines, tracking institutional flows, and processing spatial data.
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #30363d; padding: 15px;">
-      <b style="color: #ffd700;">FinTech & AI</b>
-      <br><br>
-      Integrating AI for stock market analysis and automated financial tools.
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d2e,100:0d1117&height=2&section=header" width="100%" />
-</p>
+```yaml
+name: Fadel Setiawan
+location: Jakarta, Indonesia 🇮🇩
+education: Information Systems @ Universitas Bakrie
+roles:
+  - Backend Engineer
+  - Data Engineer
+  - Mobile Developer
+interests:
+  - Stock Market Analysis & Bandarmology
+  - Institutional Fund Flow (Whale Tracking)
+  - Geospatial Data & Remote Sensing
+  - AI-Powered Financial Tools
+currently_building: Dellmology Pro
+```
 
 <br clear="both"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
 
 <!-- TECH STACK -->
-## Engineering Dashboard
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=500&color=58a6ff&center=true&vCenter=true&width=950&lines=Go+%26+Python+Development;Database+Architecture;API+Design;Spatial+Data+Analysis;Web+Scraping;Real-time+WebSockets" 
-    alt="Engineering Dashboard Animation"
-  />
-</p>
+## Tech Arsenal
 
 <div align="center">
 
