@@ -320,11 +320,7 @@ Personal portfolio website showcasing projects and skills with modern responsive
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=70&section=header" width="100%"/>
-
-
-<!-- CONNECT -->
-## Let's Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,120:0a3d2e&height=150&section=header&text=Let's%20Connect&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <div align="center">
 
