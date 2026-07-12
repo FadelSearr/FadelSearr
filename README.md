@@ -39,4 +39,3 @@ I am an **Information Systems** student with a deep passion for *Software Engine
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FadelSearr&show_icons=true&theme=radial&hide_border=true" alt="Fadel's GitHub Stats" />
 </p>
-
