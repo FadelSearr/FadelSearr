@@ -322,11 +322,12 @@ Personal portfolio website showcasing projects and skills with modern responsive
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-Total Time: 0 secs
+Total Time: 14 mins
 
-Other   2 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Markdown   14 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.94 %
+Other      6 mins                ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.06 %
 ```
 
 <!--END_SECTION:waka-->
